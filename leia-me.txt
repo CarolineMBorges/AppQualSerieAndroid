@@ -1,5 +1,5 @@
-Este projeto tem como objetivo trabalhar um pouco de interaÁ„o do usu·rio com o layout.
-A pergunta inicial do aplicativo È "Quando vocÍ gosta de sÈries", ent„o, atravÈs de um SeekBar
-o usu·rio pode colocar de 1 a 4 o quanto ele gosta de sÈries, para cada alteraÁ„o de valor, uma
-imagem correspondente È mostrada.
-Obs: N„o deixe de testar todos os valores do seekBar ao rodar esse aplicativo
+Este projeto tem como objetivo trabalhar um pouco de intera√ß√£o do usu√°rio com o layout.
+A pergunta inicial do aplicativo √© "Quanto voc√™ gosta de s√©ries", ent√£o, atrav√©s de um SeekBar
+o usu√°rio pode colocar de 1 a 4 o quanto ele gosta de s√©ries, para cada altera√ß√£o de valor, uma
+imagem correspondente √© mostrada.
+Obs: N√£o deixe de testar todos os valores do seekBar ao rodar esse aplicativo
